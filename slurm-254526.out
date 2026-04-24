@@ -1,0 +1,37 @@
+mpsvars.sh: Warning: Hardware events collection is disabled by default. To enable it, run mpsvars.sh with --vtune (recommended) or --papi option.
+Copyright (C) 2009-2016 Intel Corporation. All rights reserved.
+Intel(R) Inspector XE 2016 (build 460803)
+Copyright (C) 2009-2016 Intel Corporation. All rights reserved.
+Intel(R) VTune(TM) Amplifier XE 2016 (build 463186)
+Copyright (C) 2009-2016 Intel Corporation. All rights reserved.
+Intel(R) Advisor XE 2016 (build 463413)
+  Replay 1: 0.00146325s
+  Replay 2: 0.00107776s
+  Replay 3: 0.00100026s
+N: 200 | Cores: 8 | Average time: 0.00118042s
+------------------------
+  Replay 1: 0.00637747s
+  Replay 2: 0.00562719s
+  Replay 3: 0.00531622s
+N: 400 | Cores: 8 | Average time: 0.00577363s
+------------------------
+  Replay 1: 0.0419867s
+  Replay 2: 0.0407625s
+  Replay 3: 0.0408664s
+N: 800 | Cores: 8 | Average time: 0.0412052s
+------------------------
+  Replay 1: 0.26048s
+  Replay 2: 0.255498s
+  Replay 3: 0.254307s
+N: 1200 | Cores: 8 | Average time: 0.256761s
+------------------------
+  Replay 1: 0.594962s
+  Replay 2: 0.624393s
+  Replay 3: 0.589427s
+N: 1600 | Cores: 8 | Average time: 0.602928s
+------------------------
+  Replay 1: 1.17425s
+  Replay 2: 1.15972s
+  Replay 3: 1.16611s
+N: 2000 | Cores: 8 | Average time: 1.1667s
+------------------------
